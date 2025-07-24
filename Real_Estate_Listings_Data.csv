@@ -1,0 +1,201 @@
+listing_id,agent,stage,lead_source,listing_price,commission,list_date
+LS-1000,Brandy Murray,Contract,Facebook,748246,0.0,2025-04-04
+LS-1001,Marcus Johnson,Showing,Google Ads,752296,0.0,2025-05-15
+LS-1002,Christopher Mcdonald,Showing,Referral,640030,0.0,2025-06-07
+LS-1003,Marcus Johnson,Showing,Facebook,338008,0.0,2025-05-28
+LS-1004,Christopher Mcdonald,Showing,Google Ads,285219,0.0,2025-05-06
+LS-1005,George Shelton,Contract,Facebook,401144,0.0,2025-06-22
+LS-1006,Marcus Johnson,Showing,Referral,884881,0.0,2025-05-28
+LS-1007,Justin Johnson,Showing,Google Ads,441299,0.0,2025-05-30
+LS-1008,Justin Johnson,Closed,Zillow,504637,15139.11,2025-06-07
+LS-1009,Marcus Johnson,Contract,Referral,756213,0.0,2025-05-19
+LS-1010,Justin Johnson,Contract,Zillow,399525,0.0,2025-06-15
+LS-1011,George Shelton,Closed,Referral,645647,19369.41,2025-05-13
+LS-1012,George Shelton,Closed,Facebook,515281,15458.43,2025-04-10
+LS-1013,Marcus Johnson,Lead,Google Ads,843156,0.0,2025-06-25
+LS-1014,George Shelton,Contract,Zillow,570856,0.0,2025-03-29
+LS-1015,Christopher Mcdonald,Closed,Zillow,700549,21016.47,2025-07-08
+LS-1016,George Shelton,Showing,Zillow,229422,0.0,2025-04-05
+LS-1017,George Shelton,Closed,Google Ads,815095,24452.85,2025-06-01
+LS-1018,George Shelton,Showing,Google Ads,584166,0.0,2025-05-08
+LS-1019,Justin Johnson,Contract,Google Ads,735453,0.0,2025-04-08
+LS-1020,George Shelton,Closed,Facebook,735559,22066.77,2025-04-02
+LS-1021,George Shelton,Contract,Referral,909861,0.0,2025-04-01
+LS-1022,Marcus Johnson,Contract,Facebook,886415,0.0,2025-05-13
+LS-1023,Christopher Mcdonald,Closed,Google Ads,496742,14902.26,2025-05-03
+LS-1024,Brandy Murray,Contract,Referral,885162,0.0,2025-03-29
+LS-1025,George Shelton,Contract,Referral,270372,0.0,2025-04-24
+LS-1026,Christopher Mcdonald,Closed,Zillow,679594,20387.82,2025-05-11
+LS-1027,George Shelton,Contract,Zillow,819187,0.0,2025-04-19
+LS-1028,George Shelton,Closed,Zillow,572079,17162.37,2025-06-25
+LS-1029,Christopher Mcdonald,Closed,Referral,368311,11049.33,2025-04-17
+LS-1030,Christopher Mcdonald,Closed,Facebook,975675,29270.25,2025-07-13
+LS-1031,George Shelton,Closed,Referral,482966,14488.98,2025-05-07
+LS-1032,Justin Johnson,Lead,Facebook,702639,0.0,2025-06-24
+LS-1033,Christopher Mcdonald,Closed,Facebook,286558,8596.74,2025-05-14
+LS-1034,Marcus Johnson,Contract,Referral,996512,0.0,2025-06-05
+LS-1035,Christopher Mcdonald,Closed,Facebook,978916,29367.48,2025-04-27
+LS-1036,Brandy Murray,Contract,Zillow,812546,0.0,2025-07-21
+LS-1037,George Shelton,Showing,Zillow,223861,0.0,2025-07-21
+LS-1038,Brandy Murray,Lead,Referral,841026,0.0,2025-04-17
+LS-1039,Brandy Murray,Showing,Zillow,733393,0.0,2025-04-26
+LS-1040,Justin Johnson,Contract,Zillow,620684,0.0,2025-05-25
+LS-1041,Marcus Johnson,Closed,Facebook,701759,21052.77,2025-04-15
+LS-1042,Brandy Murray,Showing,Google Ads,527135,0.0,2025-07-16
+LS-1043,Marcus Johnson,Showing,Referral,565606,0.0,2025-03-30
+LS-1044,Brandy Murray,Lead,Referral,897451,0.0,2025-05-25
+LS-1045,Brandy Murray,Showing,Google Ads,979620,0.0,2025-07-15
+LS-1046,Justin Johnson,Showing,Facebook,536771,0.0,2025-06-06
+LS-1047,Christopher Mcdonald,Lead,Referral,781443,0.0,2025-06-11
+LS-1048,Brandy Murray,Lead,Referral,272290,0.0,2025-05-03
+LS-1049,Justin Johnson,Showing,Facebook,244914,0.0,2025-04-09
+LS-1050,Marcus Johnson,Contract,Zillow,723206,0.0,2025-07-18
+LS-1051,Justin Johnson,Lead,Referral,247494,0.0,2025-05-12
+LS-1052,Marcus Johnson,Closed,Google Ads,207891,6236.73,2025-04-14
+LS-1053,George Shelton,Showing,Zillow,504676,0.0,2025-05-23
+LS-1054,Marcus Johnson,Lead,Zillow,954239,0.0,2025-07-20
+LS-1055,Brandy Murray,Contract,Zillow,609299,0.0,2025-04-18
+LS-1056,Justin Johnson,Showing,Google Ads,691820,0.0,2025-07-13
+LS-1057,Brandy Murray,Closed,Google Ads,404682,12140.46,2025-04-02
+LS-1058,Marcus Johnson,Closed,Referral,880862,26425.86,2025-06-01
+LS-1059,Christopher Mcdonald,Contract,Google Ads,980540,0.0,2025-07-07
+LS-1060,Marcus Johnson,Closed,Facebook,687548,20626.44,2025-06-17
+LS-1061,Christopher Mcdonald,Lead,Facebook,338527,0.0,2025-06-05
+LS-1062,Marcus Johnson,Lead,Referral,510757,0.0,2025-04-08
+LS-1063,George Shelton,Closed,Zillow,987185,29615.55,2025-07-02
+LS-1064,Brandy Murray,Lead,Facebook,221943,0.0,2025-05-31
+LS-1065,Brandy Murray,Showing,Google Ads,230307,0.0,2025-03-28
+LS-1066,Brandy Murray,Closed,Zillow,554595,16637.85,2025-06-15
+LS-1067,Justin Johnson,Contract,Zillow,934695,0.0,2025-06-29
+LS-1068,Christopher Mcdonald,Lead,Referral,299974,0.0,2025-04-15
+LS-1069,Justin Johnson,Contract,Zillow,610598,0.0,2025-06-18
+LS-1070,Justin Johnson,Showing,Google Ads,727105,0.0,2025-06-04
+LS-1071,Christopher Mcdonald,Closed,Zillow,574485,17234.55,2025-06-23
+LS-1072,Marcus Johnson,Contract,Google Ads,430494,0.0,2025-04-24
+LS-1073,Brandy Murray,Closed,Google Ads,298640,8959.2,2025-06-18
+LS-1074,Brandy Murray,Closed,Zillow,789360,23680.8,2025-04-29
+LS-1075,Justin Johnson,Closed,Google Ads,389087,11672.61,2025-07-05
+LS-1076,Justin Johnson,Closed,Facebook,724054,21721.62,2025-05-17
+LS-1077,Justin Johnson,Lead,Facebook,465853,0.0,2025-07-23
+LS-1078,Marcus Johnson,Contract,Google Ads,903279,0.0,2025-07-08
+LS-1079,George Shelton,Closed,Referral,625897,18776.91,2025-06-27
+LS-1080,Brandy Murray,Closed,Zillow,571851,17155.53,2025-06-24
+LS-1081,Marcus Johnson,Closed,Zillow,769819,23094.57,2025-06-18
+LS-1082,Marcus Johnson,Showing,Zillow,843926,0.0,2025-07-19
+LS-1083,Marcus Johnson,Contract,Google Ads,621317,0.0,2025-05-17
+LS-1084,George Shelton,Showing,Referral,873973,0.0,2025-05-27
+LS-1085,Brandy Murray,Closed,Google Ads,903226,27096.78,2025-05-12
+LS-1086,George Shelton,Closed,Facebook,392114,11763.42,2025-04-11
+LS-1087,George Shelton,Lead,Zillow,977914,0.0,2025-05-19
+LS-1088,George Shelton,Lead,Zillow,568629,0.0,2025-06-21
+LS-1089,Justin Johnson,Showing,Google Ads,850098,0.0,2025-05-12
+LS-1090,Justin Johnson,Closed,Zillow,366495,10994.85,2025-06-24
+LS-1091,Justin Johnson,Lead,Zillow,889878,0.0,2025-07-14
+LS-1092,Christopher Mcdonald,Contract,Referral,970145,0.0,2025-07-22
+LS-1093,George Shelton,Lead,Referral,344234,0.0,2025-06-07
+LS-1094,Marcus Johnson,Lead,Zillow,975722,0.0,2025-05-30
+LS-1095,George Shelton,Showing,Referral,680735,0.0,2025-03-31
+LS-1096,Marcus Johnson,Closed,Google Ads,996664,29899.92,2025-06-29
+LS-1097,Christopher Mcdonald,Lead,Zillow,285754,0.0,2025-05-28
+LS-1098,Brandy Murray,Closed,Referral,283551,8506.53,2025-04-30
+LS-1099,Justin Johnson,Lead,Facebook,644445,0.0,2025-06-28
+LS-1100,Justin Johnson,Contract,Google Ads,658707,0.0,2025-05-06
+LS-1101,George Shelton,Contract,Referral,268511,0.0,2025-06-02
+LS-1102,George Shelton,Closed,Referral,325119,9753.57,2025-05-15
+LS-1103,Justin Johnson,Closed,Google Ads,940795,28223.85,2025-05-31
+LS-1104,Brandy Murray,Contract,Zillow,513436,0.0,2025-05-19
+LS-1105,Brandy Murray,Contract,Referral,936966,0.0,2025-07-19
+LS-1106,George Shelton,Contract,Google Ads,849671,0.0,2025-05-18
+LS-1107,Brandy Murray,Closed,Google Ads,560330,16809.9,2025-07-11
+LS-1108,George Shelton,Lead,Facebook,370341,0.0,2025-03-27
+LS-1109,Marcus Johnson,Contract,Facebook,253997,0.0,2025-07-04
+LS-1110,Brandy Murray,Contract,Facebook,843052,0.0,2025-05-02
+LS-1111,Marcus Johnson,Contract,Google Ads,215484,0.0,2025-04-11
+LS-1112,Christopher Mcdonald,Contract,Facebook,244959,0.0,2025-05-11
+LS-1113,Christopher Mcdonald,Showing,Referral,672813,0.0,2025-06-12
+LS-1114,Justin Johnson,Contract,Facebook,296466,0.0,2025-06-28
+LS-1115,Christopher Mcdonald,Contract,Google Ads,224634,0.0,2025-07-11
+LS-1116,Brandy Murray,Showing,Google Ads,358560,0.0,2025-05-11
+LS-1117,George Shelton,Lead,Referral,208362,0.0,2025-06-26
+LS-1118,Justin Johnson,Lead,Zillow,605471,0.0,2025-06-29
+LS-1119,Brandy Murray,Showing,Referral,938980,0.0,2025-06-21
+LS-1120,Brandy Murray,Showing,Zillow,421947,0.0,2025-03-29
+LS-1121,George Shelton,Contract,Zillow,720511,0.0,2025-04-13
+LS-1122,Marcus Johnson,Showing,Referral,942192,0.0,2025-05-22
+LS-1123,Christopher Mcdonald,Contract,Google Ads,485631,0.0,2025-05-08
+LS-1124,Christopher Mcdonald,Contract,Referral,373397,0.0,2025-06-12
+LS-1125,George Shelton,Lead,Zillow,243478,0.0,2025-05-12
+LS-1126,Brandy Murray,Lead,Facebook,563341,0.0,2025-05-24
+LS-1127,Brandy Murray,Lead,Facebook,803867,0.0,2025-07-16
+LS-1128,George Shelton,Lead,Zillow,289580,0.0,2025-06-05
+LS-1129,Christopher Mcdonald,Showing,Referral,654922,0.0,2025-06-25
+LS-1130,Brandy Murray,Lead,Zillow,661015,0.0,2025-07-11
+LS-1131,Brandy Murray,Closed,Zillow,592514,17775.42,2025-07-07
+LS-1132,Justin Johnson,Showing,Facebook,656086,0.0,2025-05-31
+LS-1133,George Shelton,Lead,Facebook,211136,0.0,2025-06-16
+LS-1134,Marcus Johnson,Contract,Google Ads,859780,0.0,2025-07-10
+LS-1135,Brandy Murray,Lead,Google Ads,508985,0.0,2025-05-29
+LS-1136,George Shelton,Contract,Facebook,631412,0.0,2025-06-02
+LS-1137,Marcus Johnson,Closed,Referral,746737,22402.11,2025-06-22
+LS-1138,George Shelton,Showing,Google Ads,266209,0.0,2025-05-17
+LS-1139,Marcus Johnson,Lead,Google Ads,720603,0.0,2025-05-24
+LS-1140,George Shelton,Contract,Google Ads,356252,0.0,2025-05-13
+LS-1141,Marcus Johnson,Contract,Zillow,925778,0.0,2025-05-09
+LS-1142,Justin Johnson,Contract,Zillow,380551,0.0,2025-04-18
+LS-1143,George Shelton,Lead,Google Ads,577330,0.0,2025-05-02
+LS-1144,George Shelton,Showing,Zillow,800113,0.0,2025-05-26
+LS-1145,George Shelton,Contract,Referral,990353,0.0,2025-04-18
+LS-1146,Christopher Mcdonald,Showing,Google Ads,645261,0.0,2025-07-08
+LS-1147,George Shelton,Lead,Zillow,900007,0.0,2025-04-30
+LS-1148,Justin Johnson,Contract,Referral,911703,0.0,2025-05-02
+LS-1149,Brandy Murray,Showing,Zillow,393468,0.0,2025-05-07
+LS-1150,Christopher Mcdonald,Lead,Google Ads,939245,0.0,2025-06-28
+LS-1151,Brandy Murray,Lead,Referral,402112,0.0,2025-05-18
+LS-1152,Justin Johnson,Closed,Referral,755602,22668.06,2025-07-18
+LS-1153,Marcus Johnson,Showing,Referral,584838,0.0,2025-07-05
+LS-1154,Brandy Murray,Contract,Facebook,967797,0.0,2025-07-19
+LS-1155,Christopher Mcdonald,Closed,Google Ads,543185,16295.55,2025-05-19
+LS-1156,Brandy Murray,Closed,Referral,311894,9356.82,2025-04-14
+LS-1157,George Shelton,Showing,Google Ads,228684,0.0,2025-05-02
+LS-1158,Christopher Mcdonald,Closed,Zillow,288161,8644.83,2025-05-22
+LS-1159,Christopher Mcdonald,Contract,Zillow,623968,0.0,2025-05-09
+LS-1160,Brandy Murray,Contract,Zillow,511294,0.0,2025-06-04
+LS-1161,Brandy Murray,Lead,Zillow,709613,0.0,2025-04-29
+LS-1162,George Shelton,Lead,Zillow,545401,0.0,2025-05-23
+LS-1163,George Shelton,Showing,Facebook,262238,0.0,2025-03-28
+LS-1164,George Shelton,Closed,Google Ads,863667,25910.01,2025-07-07
+LS-1165,Brandy Murray,Showing,Zillow,410091,0.0,2025-04-19
+LS-1166,Brandy Murray,Lead,Facebook,754878,0.0,2025-05-18
+LS-1167,Christopher Mcdonald,Closed,Facebook,786081,23582.43,2025-04-03
+LS-1168,George Shelton,Closed,Referral,325261,9757.83,2025-04-05
+LS-1169,Christopher Mcdonald,Closed,Facebook,577272,17318.16,2025-07-11
+LS-1170,Brandy Murray,Contract,Facebook,446627,0.0,2025-05-21
+LS-1171,Brandy Murray,Contract,Facebook,633124,0.0,2025-04-19
+LS-1172,Brandy Murray,Showing,Referral,919656,0.0,2025-06-29
+LS-1173,George Shelton,Showing,Zillow,303791,0.0,2025-04-14
+LS-1174,George Shelton,Showing,Zillow,757508,0.0,2025-03-28
+LS-1175,Brandy Murray,Showing,Facebook,275882,0.0,2025-07-15
+LS-1176,Justin Johnson,Contract,Facebook,432883,0.0,2025-05-20
+LS-1177,Brandy Murray,Closed,Zillow,991283,29738.49,2025-06-25
+LS-1178,Brandy Murray,Closed,Zillow,749545,22486.35,2025-06-26
+LS-1179,Marcus Johnson,Showing,Google Ads,575158,0.0,2025-06-19
+LS-1180,Brandy Murray,Contract,Google Ads,939115,0.0,2025-05-31
+LS-1181,Marcus Johnson,Closed,Referral,790503,23715.09,2025-04-30
+LS-1182,Christopher Mcdonald,Lead,Google Ads,691911,0.0,2025-04-04
+LS-1183,Brandy Murray,Contract,Zillow,220413,0.0,2025-05-14
+LS-1184,Christopher Mcdonald,Showing,Referral,404896,0.0,2025-06-26
+LS-1185,George Shelton,Lead,Facebook,516898,0.0,2025-04-17
+LS-1186,Brandy Murray,Contract,Zillow,320508,0.0,2025-04-07
+LS-1187,Marcus Johnson,Contract,Zillow,802443,0.0,2025-06-11
+LS-1188,Christopher Mcdonald,Closed,Google Ads,330233,9906.99,2025-06-29
+LS-1189,Justin Johnson,Closed,Facebook,996232,29886.96,2025-04-09
+LS-1190,Marcus Johnson,Lead,Google Ads,456007,0.0,2025-07-16
+LS-1191,George Shelton,Lead,Facebook,726066,0.0,2025-04-05
+LS-1192,George Shelton,Closed,Referral,969070,29072.1,2025-04-24
+LS-1193,Marcus Johnson,Lead,Facebook,387673,0.0,2025-04-23
+LS-1194,Marcus Johnson,Contract,Google Ads,952640,0.0,2025-07-13
+LS-1195,Christopher Mcdonald,Showing,Referral,886841,0.0,2025-05-23
+LS-1196,Marcus Johnson,Closed,Zillow,673024,20190.72,2025-04-11
+LS-1197,Brandy Murray,Contract,Zillow,878487,0.0,2025-05-13
+LS-1198,Christopher Mcdonald,Contract,Google Ads,704029,0.0,2025-04-18
+LS-1199,George Shelton,Closed,Google Ads,930948,27928.44,2025-07-12
