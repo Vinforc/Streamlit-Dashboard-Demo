@@ -4,8 +4,6 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 import numpy as np
-from faker import Faker
-import random
 from datetime import datetime, timedelta
 import uuid
 import os
